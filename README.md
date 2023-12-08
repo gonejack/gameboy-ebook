@@ -1,2 +1,2 @@
 # gameboy-ebook
-E-book maker for gameboy and gameboy advance
+E-book maker for Game Boy and Game Boy Advance
